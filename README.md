@@ -6,7 +6,7 @@ For the TN Police Hackathon
 Setup:
 Create a GitHub repository and push the project codebase to it.
 Clone the repository on individual systems:
-git clone <repository_url>
+git clone [https://github.com/leahtara/AdShield---KH.git](https://github.com/leahtara/AdShield---KH.git)
 Use branches for feature development:
 git checkout -b feature/<feature-name>
 Merge changes via pull requests after code review.
